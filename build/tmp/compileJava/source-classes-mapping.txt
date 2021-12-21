@@ -1,0 +1,23 @@
+entities/Aluno.java
+ entities.Aluno
+controllers/SystemController.java
+ controllers.SystemController
+entities/Aula.java
+ entities.Aula
+entities/AulaTeorica.java
+ entities.AulaTeorica
+entities/AulaPratica.java
+ entities.AulaPratica
+entities/Disciplina.java
+ entities.Disciplina
+entities/Instrutor.java
+ entities.Instrutor
+entities/Pessoa.java
+ entities.Pessoa
+entities/Status.java
+ entities.Status
+Main.java
+ Main
+ Main$1
+views/TelaAluno.java
+ views.TelaAluno
