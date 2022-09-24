@@ -1,6 +1,6 @@
 # Sistema de Auto Escola
 
-Desenvolvimento de um sistema para o gerenciamento de uma autoescola, envolvendo desde o levantamento de requisitos, passando pela modelagem e finalizando com o desenvolvimento do código em si, projeto realizado em Java, Swing para a interface gráfica do programa, e Astah para a construção dos diagramas UML. Projeto referente à disciplina de Modelagem de Sistemas
+Desenvolvimento de um sistema para o gerenciamento de uma autoescola, envolvendo desde o levantamento de requisitos, passando pela modelagem e finalizando com o desenvolvimento do código em si, projeto realizado em Java, Swing para a interface gráfica do programa, e Astah para a construção dos diagramas UML. Projeto referente à disciplina de Modelagem de Sistemas. Print das telas a seguir:
 
 
 <p align="center">Tela da grade do aluno</p>
