@@ -5,7 +5,8 @@ Desenvolvimento de um sistema para o gerenciamento de uma autoescola, envolvendo
 <p align="center">
   Tela da grade do aluno
 </p>
-  ![Frame 1](https://user-images.githubusercontent.com/84208761/192109091-b07daa95-1ae3-4320-9e8d-cda358240beb.png)
+
+![Frame 1](https://user-images.githubusercontent.com/84208761/192109091-b07daa95-1ae3-4320-9e8d-cda358240beb.png)
 
   Lista das aulas teóricas disponíveis
   ![Frame 2](https://user-images.githubusercontent.com/84208761/192109120-dbcbc694-1545-4c18-bb4b-3cd826975562.png)
